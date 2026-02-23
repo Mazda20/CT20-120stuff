@@ -5,9 +5,17 @@ It was cool to see that we can get data from anywhere and use it in the code
 For example, I had no idea we could use Reddit as a source to get data, so that was pretty cool
 I was also able to work on and finish my 2nd project this week
 For my 2nd project, I decided to do the Recombination project
-Going into this, I was kind of lost, because I didn't know what I wanted to do.
+Going into this, I was kind of lost because I didn't know what I wanted to do.
 At first, I was thinking of doing a remix of a picture I took when I was in Yosemite
 But I decided that I wanted to do a remix of a poem, because this way, not only can I learn more about html, but I could also experience more with CSS and DOM methods
-Though initially I did not want to do my 2nd project using html, I thought it would be a good opportunity to learn.
-I used an example we did class about a week ago, and I kind of built off of that. Here is the link to the example: https://editor.p5js.org/Mzdn77/sketches/OVonHQWI1
+Though initially I did not want to do my 2nd project using html, and I did not feel confident, I thought it would be a good opportunity to learn.
+I used an example we did in class about a week ago, and I kind of built off of that. Here is the link to the example: https://editor.p5js.org/Mzdn77/sketches/OVonHQWI1
 For my poem, I looked at a popular piece by the Persian Poet Rumi
+I got the English translation, and I reworded it into my own words; this way, the poem feels more personal in a way.
+The main theme of the poem is going beyond judgment, and even language, so I wanted my remix to kind of reflect that.
+Since it was my first time actually doing HTML and css, I did have some trouble understanding basic concepts.
+Like, for example, I was a bit confused on how html, css and javascript all work together, and it took some time to learn what each language is responsible for
+I also ran into some trouble trying to make the last sentence fade away, and also with the whole transition part in general
+But after finding out about some of the DOM methods like getElementById() and classList.toggle(), I was able to get the transition to work.
+Honestly, I'm pretty happy with the work I did. And to be honest, I wanted to do cooler stuff and add more features, but I'm still not very confident.
+Overall, I think this was a good learning curve. I feel more comfortable with HTML, css, and javascript than I did before.
